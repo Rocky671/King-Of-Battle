@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: a5e60d80c6839fc4eb0aae6b3195a58d
+timeCreated: 1508090123
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_001
+    100002: Drive_sprocket_001
+    100004: Drive_sprocket_003
+    100006: Drive_sprocket_005
+    100008: Drive_sprocket_007
+    100010: Front_armor_001
+    100012: Group_002
+    100014: Group_004
+    100016: Group_006
+    100018: Group_008
+    100020: Side_plates_001
+    100022: Side_plates_002
+    100024: //RootNode
+    100026: Tracks_001
+    100028: Tracks_003
+    100030: Turret_001
+    100032: Wheel1_001
+    100034: Wheel1_002
+    100036: Wheel1_003
+    100038: Wheel1_004
+    100040: Wheel1_005
+    100042: Wheel1_006
+    100044: Wheel1_007
+    100046: Wheel1_008
+    100048: Wheel2_001
+    100050: Wheel2_002
+    100052: Wheel2_003
+    100054: Wheel2_004
+    100056: Wheel2_005
+    100058: Wheel2_006
+    100060: Wheel2_007
+    100062: Wheel2_008
+    400000: Body_001
+    400002: Drive_sprocket_001
+    400004: Drive_sprocket_003
+    400006: Drive_sprocket_005
+    400008: Drive_sprocket_007
+    400010: Front_armor_001
+    400012: Group_002
+    400014: Group_004
+    400016: Group_006
+    400018: Group_008
+    400020: Side_plates_001
+    400022: Side_plates_002
+    400024: //RootNode
+    400026: Tracks_001
+    400028: Tracks_003
+    400030: Turret_001
+    400032: Wheel1_001
+    400034: Wheel1_002
+    400036: Wheel1_003
+    400038: Wheel1_004
+    400040: Wheel1_005
+    400042: Wheel1_006
+    400044: Wheel1_007
+    400046: Wheel1_008
+    400048: Wheel2_001
+    400050: Wheel2_002
+    400052: Wheel2_003
+    400054: Wheel2_004
+    400056: Wheel2_005
+    400058: Wheel2_006
+    400060: Wheel2_007
+    400062: Wheel2_008
+    2300000: Body_001
+    2300002: Drive_sprocket_001
+    2300004: Drive_sprocket_003
+    2300006: Drive_sprocket_005
+    2300008: Drive_sprocket_007
+    2300010: Front_armor_001
+    2300012: Group_002
+    2300014: Group_004
+    2300016: Group_006
+    2300018: Group_008
+    2300020: Side_plates_001
+    2300022: Side_plates_002
+    2300024: Tracks_001
+    2300026: Tracks_003
+    2300028: Turret_001
+    2300030: Wheel1_001
+    2300032: Wheel1_002
+    2300034: Wheel1_003
+    2300036: Wheel1_004
+    2300038: Wheel1_005
+    2300040: Wheel1_006
+    2300042: Wheel1_007
+    2300044: Wheel1_008
+    2300046: Wheel2_001
+    2300048: Wheel2_002
+    2300050: Wheel2_003
+    2300052: Wheel2_004
+    2300054: Wheel2_005
+    2300056: Wheel2_006
+    2300058: Wheel2_007
+    2300060: Wheel2_008
+    3300000: Body_001
+    3300002: Drive_sprocket_001
+    3300004: Drive_sprocket_003
+    3300006: Drive_sprocket_005
+    3300008: Drive_sprocket_007
+    3300010: Front_armor_001
+    3300012: Group_002
+    3300014: Group_004
+    3300016: Group_006
+    3300018: Group_008
+    3300020: Side_plates_001
+    3300022: Side_plates_002
+    3300024: Tracks_001
+    3300026: Tracks_003
+    3300028: Turret_001
+    3300030: Wheel1_001
+    3300032: Wheel1_002
+    3300034: Wheel1_003
+    3300036: Wheel1_004
+    3300038: Wheel1_005
+    3300040: Wheel1_006
+    3300042: Wheel1_007
+    3300044: Wheel1_008
+    3300046: Wheel2_001
+    3300048: Wheel2_002
+    3300050: Wheel2_003
+    3300052: Wheel2_004
+    3300054: Wheel2_005
+    3300056: Wheel2_006
+    3300058: Wheel2_007
+    3300060: Wheel2_008
+    4300000: Group_002
+    4300002: Group_004
+    4300004: Group_006
+    4300006: Group_008
+    4300008: Turret_001
+    4300010: Body_001
+    4300012: Front_armor_001
+    4300014: Tracks_001
+    4300016: Wheel1_001
+    4300018: Drive_sprocket_001
+    4300020: Wheel1_002
+    4300022: Wheel1_003
+    4300024: Wheel1_004
+    4300026: Drive_sprocket_003
+    4300028: Side_plates_001
+    4300030: Side_plates_002
+    4300032: Drive_sprocket_005
+    4300034: Wheel1_005
+    4300036: Drive_sprocket_007
+    4300038: Wheel1_006
+    4300040: Tracks_003
+    4300042: Wheel1_007
+    4300044: Wheel1_008
+    4300046: Wheel2_001
+    4300048: Wheel2_002
+    4300050: Wheel2_003
+    4300052: Wheel2_004
+    4300054: Wheel2_005
+    4300056: Wheel2_006
+    4300058: Wheel2_007
+    4300060: Wheel2_008
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

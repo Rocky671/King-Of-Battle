@@ -1,0 +1,12 @@
+Kamikaze: This tank seeks out the player at all times, does not fire. This tanks sole goal is to get within range of the player and explode,
+causing severe damage. Only when the player is within range does it explode, destroying the tank does not explode the tank. Destroys itself
+ upon explosion.
+
+Guerilla: This tank will shoot once upon seeing the player, and then retreat to a different waypoint. Rinse and repeat. 
+
+Coward: This tank will, upon seeing the player, immediately flee to the direction of another tank, not fighting back until another
+tank is engaging the player as well.
+
+Artillery: This tank will stay further away than other tanks, and fire from a longer distance. Artillery tanks will have further sight data.
+
+
